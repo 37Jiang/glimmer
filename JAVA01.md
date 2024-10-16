@@ -32,10 +32,6 @@
 
 3. 运行截图：![image](https://github.com/user-attachments/assets/86815175-d2b8-434c-b65f-2567053ca43b)
 
-
- https://wx3.sinaimg.cn/mw2000/0060u9ptly1huoonurqt4j31z416gdqz.jpg
-
-
 ps：一开始一直没运行成功，告诉我没有扩展程序，我就以为环境配错了，去看就发现把变量新建到个人变量里而不是系统变量里面了😓改了之后再运行发现还是不行，以为环境还没配好，上网搜发现其实环境没有问题了，只是没有差了一步在vscode里下载扩展程序。这波属于歪打正着发现环境配错了
 
 4. Java文件编译和运行过程中涉及的文件及作用：
@@ -51,8 +47,9 @@ ps：一开始一直没运行成功，告诉我没有扩展程序，我就以为
 
 
 后续：看到第二题要用Intellij IDEA我又老实了，又花了一个半小时重新安装启动配置，这次我是一步也不敢自己操作，全程看网上教程给IDEA匹配JDK，终于成功了最后。所以之前失败的原因可能是因为看着IDEA给的提示乱点乱配，所以一直都搞不出来
-![Uploading image.png…]()
-https://wx3.sinaimg.cn/mw2000/0060u9ptly1huoop0h9xtj31lu14jalu.jpg
+![image](https://github.com/user-attachments/assets/c34b94cc-3f43-45ba-83b5-c4f0116a168d)
+
+
 
 
 ### TASK5：
