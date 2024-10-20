@@ -70,8 +70,9 @@ public class Print {
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/94b13dec-1633-46e7-985b-fd3071d3482b)
 
-![image](https://github.com/user-attachments/assets/3db66fdf-e408-4b87-9df3-ee87e762bb92)
+
 
 
 ### TASK2：
@@ -93,6 +94,7 @@ public class Print {
 
 ```
 
-![image](https://github.com/user-attachments/assets/61d68927-6fb4-4e1f-9991-942799b9a284)
+![image](https://github.com/user-attachments/assets/00e804f6-3680-46c5-9733-a756de1b3cb5)
+
 
 
