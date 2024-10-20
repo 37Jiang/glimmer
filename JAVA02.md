@@ -71,7 +71,8 @@ public class Print {
 }
 ```
 
-https://wx4.sinaimg.cn/mw690/0060u9ptly1hut265o2xkj31lu14l7ks.jpg
+![image](https://github.com/user-attachments/assets/3db66fdf-e408-4b87-9df3-ee87e762bb92)
+
 
 ### TASK2：
 
@@ -92,5 +93,6 @@ public class Print {
 
 ```
 
-https://wx3.sinaimg.cn/mw690/0060u9ptly1hut25rkdjlj31lu14jalu.jpg
+![image](https://github.com/user-attachments/assets/61d68927-6fb4-4e1f-9991-942799b9a284)
+
 
