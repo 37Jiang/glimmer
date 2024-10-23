@@ -98,5 +98,6 @@ public class wwglimmer {
     }
 }
 ```
-
+问题：代码中明明没有提到父类，为什么会用super，为什么要重写（Override）
+解答：虽然在Person类里没有提到父类，但实际上如果没有写继承哪个父类，每个JAVA类就会默认继承object类，即以object作为父类。而object类中的finalize方法是一个空方法，不执行任何具体操作。所以如果 Person`类想在对象销毁时减少number，就需要通过重写
 ps：好像finalize因为缺点过多被弃用了，时间紧迫，看来我只能之后~~进微光后~~再学其他方法来解决这个问题了qaq
